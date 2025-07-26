@@ -1,0 +1,20 @@
+# Mineral Sınıflandırma Web Arayüzü - Gerekli Bağımlılıklar
+
+# Core ML Libraries
+torch>=2.0.0
+transformers>=4.35.0
+Pillow>=9.0.0
+
+# Web Interface
+gradio>=4.0.0
+
+# Data Visualization
+plotly>=5.0.0
+
+# Utilities
+numpy>=1.21.0
+typing-extensions>=4.0.0
+
+# Optional: GPU Support (CUDA varsa)
+# torch-audio>=2.0.0
+# torchvision>=0.15.0 
